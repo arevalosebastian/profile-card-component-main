@@ -9,8 +9,12 @@ html{
     overflow: hidden;
 }
 
-.seo{
+h1{
     font-size: 0.000001px;
+}
+
+h2{
+    font-size: unset;
 }
 
 body{
