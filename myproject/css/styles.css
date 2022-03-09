@@ -9,13 +9,6 @@ html{
     overflow: hidden;
 }
 
-h1{
-    font-size: 0.000001px;
-}
-
-h2{
-    font-size: unset;
-}
 
 body{
     font-family: 'Kumbh Sans', sans-serif;
@@ -26,6 +19,13 @@ body{
     overflow: hidden;
 }
 
+h1{
+    font-size: 0.000001px;
+}
+
+h2{
+    font-size: unset;
+}
 main{
     display: flex;
     flex-direction: column;
