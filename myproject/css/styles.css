@@ -9,6 +9,10 @@ html{
     overflow: hidden;
 }
 
+.seo{
+    font-size: 0.000001px;
+}
+
 body{
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
